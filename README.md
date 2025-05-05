@@ -8,12 +8,12 @@
 
 ### 🚀 About Me
 
-- 🎓 Computer Engineering student @ [University Name] *(customiza aqui)*
+- 🎓 Computer Engineering student @UFMS - Universidade Federal de Mato Grosso do Sul
 - 🧠 Neurodivergent (Asperger), 131 IQ — driven by hyperfocus
 - 🔬 Passionate about **Data & Analytics**, **AI**, **Biochemistry**, and **Neurology**
 - ☁️ Working with **AWS** and building cool stuff in Python
 - 🎹 I play piano and a bunch of instruments (music is my reset button)
-- 🧩 Always learning something new (currently deep-diving into **biochemistry**)
+- 🧩 Always learning something new (currently deep-diving into **biochemistry alingn to Python Automations**)
 
 ---
 
@@ -40,9 +40,8 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email: [seuemail@email.com]
-- 💼 LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
-- 🌐 Portfolio (se tiver): [danielzubcov.dev](https://danielzubcov.dev)
+- 📧 Email: [daniel.escobar.zubcov@gmail.com]
+- 💼 LinkedIn: [Daniel Zubcov]([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/daniel-zubcov/))
 
 ---
 
