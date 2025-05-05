@@ -41,7 +41,8 @@
 ### 📫 Let's Connect
 
 - 📧 Email: [daniel.escobar.zubcov@gmail.com]
-- 💼 LinkedIn: [Daniel Zubcov]([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/daniel-zubcov/))
+- 💼 LinkedIn: [Daniel Zubcov](https://www.linkedin.com/in/daniel-zubcov/)
+- 📸 Instagram: [daniel.zubcov](https://www.instagram.com/daniel.zubcov/)
 
 ---
 
