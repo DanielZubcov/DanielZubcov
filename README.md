@@ -11,7 +11,7 @@
 - 🎓 Computer Engineering student @UFMS - Universidade Federal de Mato Grosso do Sul
 - 🧠 Neurodivergent (Asperger), 131 IQ — driven by hyperfocus
 - 🔬 Passionate about **Data & Analytics**, **AI**, **Biochemistry**, and **Neurology**
-- ☁️ Working with **AWS** and building cool stuff in Python
+- ☁️ Working with **AWS** and building cool stuff in Python and JavaScript
 - 🎹 I play piano and a bunch of instruments (music is my reset button)
 - 🧩 Always learning something new (currently deep-diving into **biochemistry alingn to Python Automations**)
 
