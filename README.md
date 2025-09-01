@@ -29,15 +29,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DanielZubcov&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielZubcov&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - 📧 Email: [daniel.escobar.zubcov@gmail.com]
