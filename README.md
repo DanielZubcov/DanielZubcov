@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Daniel+Zubcov+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Neurodivergent+Dev+%F0%9F%A7%A0;Data+%26+AI+Enthusiast+%F0%9F%93%88;Multi-nstrumentalist+Musician+%F0%9F%8E%B9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Daniel+Zubcov+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Neurodivergent+Dev+%F0%9F%A7%A0;Data+%26+AI+Enthusiast+%F0%9F%93%88;Multi-Instrumentalist+Musician+%F0%9F%8E%B9" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -25,8 +25,6 @@
 ---
 
 ### 🚀 About Me
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="180" />
 
 - 🎓 **Education:** Computer Engineering student @ **UFMS**
 - 🧠 **Superpower:** Neurodivergent (Asperger) with **131 IQ** — *powered by hyperfocus.*
